@@ -1,0 +1,5 @@
+obj\Release\net8.0/InstrumentDataCollectorServer.cs \
+obj\Release\net8.0/InstrumentDataCollectorServerGrpc.cs: C:/Users/metehan.kaya/.nuget/packages/grpc.tools/2.69.0/build/native/include/google/protobuf/timestamp.proto\
+ C:/Users/metehan.kaya/.nuget/packages/grpc.tools/2.69.0/build/native/include/google/protobuf/empty.proto\
+ C:/Users/metehan.kaya/.nuget/packages/grpc.tools/2.69.0/build/native/include/google/protobuf/struct.proto\
+ Protos/instrumentDataCollectorServer.proto

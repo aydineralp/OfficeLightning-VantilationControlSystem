@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CRUDify_API/.vs/CRUDify_API/CopilotIndices/17.12.68.61481/CodeChunks.db-shm
+/CRUDify_API/.vs/CRUDify_API/DesignTimeBuild/.dtbcache.v2
+/CRUDify_API/CRUDify_API/bin/Debug/net8.0/runtimes
+/CRUDify_API/CRUDify_API/bin/Debug/net8.0/appsettings.json
+/CRUDify_API/CRUDify_API/bin/Debug/net8.0/CRUDify_API.deps.json
+/CRUDify_API/.vs/CRUDify_API/v17/.suo
+/CRUDify_API/.vs/CRUDify_API/CopilotIndices/17.12.68.61481/CodeChunks.db
+*.db-wal
+*.vsidx
+/CRUDify_API/.vs/CRUDify_API/CopilotIndices/17.12.68.61481/SemanticSymbols.db-wal
+/CRUDify_API/.vs/CRUDify_API/CopilotIndices/17.12.68.61481/SemanticSymbols.db-shm
+/CRUDify_API/.vs/CRUDify_API/FileContentIndex/a8a6c038-0890-480e-941d-2d1ceac7f1ea.vsidx
+/CRUDify_API/.vs/CRUDify_API/FileContentIndex/a917540b-64be-4209-8995-0a5d29e7e3d1.vsidx
+/CRUDify_API/.vs/CRUDify_API/FileContentIndex/aa2be8ef-0d07-4172-95fc-cf9489653c66.vsidx
+/CRUDify_API/.vs/CRUDify_API/FileContentIndex/dc22f4b9-c18a-45e0-8663-9c063e650e29.vsidx
+/CRUDify_API/.vs/CRUDify_API/v17/DocumentLayout.backup.json
+/CRUDify_API/.vs/CRUDify_API/v17/.futdcache.v2
+/CRUDify_API/.vs/ProjectEvaluation/crudify_api.metadata.v9.bin

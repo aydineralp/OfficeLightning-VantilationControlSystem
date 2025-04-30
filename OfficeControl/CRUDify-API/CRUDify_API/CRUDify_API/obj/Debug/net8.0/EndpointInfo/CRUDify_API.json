@@ -1,0 +1,219 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "LightControl API",
+    "description": "MSAL.NET ile email & şifre doğrulama API",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Auths/checkuserbyemail": {
+      "get": {
+        "tags": [
+          "Auths"
+        ],
+        "parameters": [
+          {
+            "name": "email",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "password",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/": {
+      "get": {
+        "tags": [
+          "CRUDify_API"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/light/turnon": {
+      "post": {
+        "tags": [
+          "Devices"
+        ],
+        "parameters": [
+          {
+            "name": "tagCode",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "userID",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          },
+          {
+            "name": "roomID",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/light/turnoff": {
+      "post": {
+        "tags": [
+          "Devices"
+        ],
+        "parameters": [
+          {
+            "name": "tagCode",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "userID",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          },
+          {
+            "name": "roomID",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Locations/getalllocations": {
+      "get": {
+        "tags": [
+          "Locations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Rooms/getroomsbylocationname": {
+      "get": {
+        "tags": [
+          "Rooms"
+        ],
+        "parameters": [
+          {
+            "name": "locationName",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tags/getalltagdetails": {
+      "get": {
+        "tags": [
+          "Tags"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tags/gettagsbyroomname": {
+      "get": {
+        "tags": [
+          "Tags"
+        ],
+        "parameters": [
+          {
+            "name": "roomName",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Tags/gettagsbylocationname": {
+      "get": {
+        "tags": [
+          "Tags"
+        ],
+        "parameters": [
+          {
+            "name": "locationName",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

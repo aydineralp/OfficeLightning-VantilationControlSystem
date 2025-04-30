@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "InstrumentDataCollectorServer";
+
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/empty.proto";
+import "google/protobuf/struct.proto";
+
+package instrumentDataCollectorServer;
+
+service DataCollector {
+  rpc WriteTagValue (WriteValue) returns (google.protobuf.Empty);
+}
+
+message WriteValue {
+  string InstrumentCode = 1;
+  string TagCode = 2;
+  google.protobuf.Value Value = 3;
+}

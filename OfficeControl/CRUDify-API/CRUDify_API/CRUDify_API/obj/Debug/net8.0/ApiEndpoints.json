@@ -1,0 +1,161 @@
+[
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_3",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CRUDify_API.Controller.cs.AuthsController",
+    "Method": "CheckUserByEmail",
+    "RelativePath": "api/Auths/checkuserbyemail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRUDify_API.Controller.cs.DevicesController",
+    "Method": "TurnOffLight",
+    "RelativePath": "api/light/turnoff",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tagCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "userID",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "roomID",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRUDify_API.Controller.cs.DevicesController",
+    "Method": "TurnOnLight",
+    "RelativePath": "api/light/turnon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tagCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "userID",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "roomID",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRUDify_API.Controller.cs.LocationsController",
+    "Method": "GetAllLocations",
+    "RelativePath": "api/Locations/getalllocations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRUDify_API.Controller.cs.RoomsController",
+    "Method": "GetRoomsByLocationName",
+    "RelativePath": "api/Rooms/getroomsbylocationname",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "locationName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRUDify_API.Controller.cs.TagsController",
+    "Method": "GetTagDetails",
+    "RelativePath": "api/Tags/getalltagdetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRUDify_API.Controller.cs.TagsController",
+    "Method": "GetTagsByLocationName",
+    "RelativePath": "api/Tags/gettagsbylocationname",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "locationName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRUDify_API.Controller.cs.TagsController",
+    "Method": "GetTagsByRoomName",
+    "RelativePath": "api/Tags/gettagsbyroomname",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roomName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

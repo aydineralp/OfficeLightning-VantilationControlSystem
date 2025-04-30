@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\repositories\\abstract\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\repositories\\abstract\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\repositories\\concrete\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\repositories\\concrete\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\controller.cs\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\controller.cs\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\repositories\\concrete\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\repositories\\concrete\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\entities\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\entities\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\controller.cs\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\controller.cs\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\controller.cs\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\controller.cs\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\repositories\\concrete\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\repositories\\concrete\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\repositories\\concrete\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\repositories\\concrete\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\repositories\\concrete\\userroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\repositories\\concrete\\userroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\controller.cs\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\controller.cs\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\repositories\\abstract\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\repositories\\abstract\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\controller.cs\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\controller.cs\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\repositories\\abstract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\repositories\\abstract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\repositories\\concrete\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\repositories\\concrete\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\repositories\\concrete\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\repositories\\concrete\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\entities\\userroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\entities\\userroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\entities\\devicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\entities\\devicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|c:\\users\\metehan.kaya\\desktop\\crudify-api\\crudify_api\\crudify_api\\repositories\\abstract\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C04A39-68EE-4A44-9FDD-93E2591C78E7}|CRUDify_API\\CRUDify_API.csproj|solutionrelative:crudify_api\\repositories\\abstract\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Entities\\Log.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Entities\\Log.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Entities\\Log.cs",
+              "RelativeToolTip": "CRUDify_API\\Entities\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:25:53.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Concrete\\LogRepository.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Repositories\\Concrete\\LogRepository.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Concrete\\LogRepository.cs",
+              "RelativeToolTip": "CRUDify_API\\Repositories\\Concrete\\LogRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T05:54:43.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Controller.cs\\TagsController.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Controller.cs\\TagsController.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Controller.cs\\TagsController.cs",
+              "RelativeToolTip": "CRUDify_API\\Controller.cs\\TagsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:19:03.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Abstract\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Repositories\\Abstract\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Abstract\\ITagRepository.cs",
+              "RelativeToolTip": "CRUDify_API\\Repositories\\Abstract\\ITagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:37:31.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Concrete\\TagRepository.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Repositories\\Concrete\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Concrete\\TagRepository.cs",
+              "RelativeToolTip": "CRUDify_API\\Repositories\\Concrete\\TagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:38:12.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DevicesController.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Controller.cs\\DevicesController.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Controller.cs\\DevicesController.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Controller.cs\\DevicesController.cs",
+              "RelativeToolTip": "CRUDify_API\\Controller.cs\\DevicesController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAqwGUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:18:20.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDify_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\appsettings.json",
+              "RelativeToolTip": "CRUDify_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T06:29:35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Concrete\\LocationRepository.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Repositories\\Concrete\\LocationRepository.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Concrete\\LocationRepository.cs",
+              "RelativeToolTip": "CRUDify_API\\Repositories\\Concrete\\LocationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:40:48.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Concrete\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Repositories\\Concrete\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Concrete\\RoomRepository.cs",
+              "RelativeToolTip": "CRUDify_API\\Repositories\\Concrete\\RoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:11:27.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Program.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Program.cs",
+              "RelativeToolTip": "CRUDify_API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:27:05.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Abstract\\ILogRepository.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Repositories\\Abstract\\ILogRepository.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Abstract\\ILogRepository.cs",
+              "RelativeToolTip": "CRUDify_API\\Repositories\\Abstract\\ILogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:32:11.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocationsController.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Controller.cs\\LocationsController.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Controller.cs\\LocationsController.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Controller.cs\\LocationsController.cs",
+              "RelativeToolTip": "CRUDify_API\\Controller.cs\\LocationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:19:00.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthsController.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Controller.cs\\AuthsController.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Controller.cs\\AuthsController.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Controller.cs\\AuthsController.cs",
+              "RelativeToolTip": "CRUDify_API\\Controller.cs\\AuthsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:25:58.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Controller.cs\\RoomsController.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Controller.cs\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Controller.cs\\RoomsController.cs",
+              "RelativeToolTip": "CRUDify_API\\Controller.cs\\RoomsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:11:33.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Concrete\\UserRoomRepository.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Repositories\\Concrete\\UserRoomRepository.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Concrete\\UserRoomRepository.cs",
+              "RelativeToolTip": "CRUDify_API\\Repositories\\Concrete\\UserRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T05:52:37.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Abstract\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Repositories\\Abstract\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Abstract\\IUserRepository.cs",
+              "RelativeToolTip": "CRUDify_API\\Repositories\\Abstract\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:29:29.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Entities\\Room.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Entities\\Room.cs",
+              "RelativeToolTip": "CRUDify_API\\Entities\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:41:34.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Entities\\User.cs",
+              "RelativeToolTip": "CRUDify_API\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:32:33.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Concrete\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Repositories\\Concrete\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Concrete\\UserRepository.cs",
+              "RelativeToolTip": "CRUDify_API\\Repositories\\Concrete\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:04:20.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Concrete\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Repositories\\Concrete\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Concrete\\AuthRepository.cs",
+              "RelativeToolTip": "CRUDify_API\\Repositories\\Concrete\\AuthRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:27:44.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeviceType.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Entities\\DeviceType.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Entities\\DeviceType.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Entities\\DeviceType.cs",
+              "RelativeToolTip": "CRUDify_API\\Entities\\DeviceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:43:11.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Abstract\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Repositories\\Abstract\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Repositories\\Abstract\\IAuthRepository.cs",
+              "RelativeToolTip": "CRUDify_API\\Repositories\\Abstract\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:37:45.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Entities\\Tag.cs",
+              "RelativeToolTip": "CRUDify_API\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:29:42.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRoom.cs",
+              "DocumentMoniker": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Entities\\UserRoom.cs",
+              "RelativeDocumentMoniker": "CRUDify_API\\Entities\\UserRoom.cs",
+              "ToolTip": "C:\\Users\\metehan.kaya\\Desktop\\CRUDify-API\\CRUDify_API\\CRUDify_API\\Entities\\UserRoom.cs",
+              "RelativeToolTip": "CRUDify_API\\Entities\\UserRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:59:26.227Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
